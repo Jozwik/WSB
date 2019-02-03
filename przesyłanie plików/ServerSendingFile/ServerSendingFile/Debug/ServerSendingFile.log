@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eurp\desktop\przesyłanie plików\serversendingfile\serversendingfile\main.cpp(128): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "long", możliwa utrata danych
+c:\users\eurp\desktop\przesyłanie plików\serversendingfile\serversendingfile\main.cpp(143): warning C4244: "argument": konwersja z "std::streamsize" do "int", możliwa utrata danych
+  ServerSendingFile.vcxproj -> C:\Users\eurp\Desktop\przesyłanie plików\ServerSendingFile\Debug\ServerSendingFile.exe
